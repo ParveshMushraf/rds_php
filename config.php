@@ -1,6 +1,6 @@
 <?php
-$servername = "database-1.cl6bkeffvlim.ap-northeast-2.rds.amazonaws.com";
+$servername = "snk.cl6bkeffvlim.ap-northeast-2.rds.amazonaws.com";
 $username = "naveen";
-$password = "naveen";
+$password = "naveen123";
 $dbname = "naveen";
 ?>
