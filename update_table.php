@@ -93,6 +93,10 @@ $conn->close();
     <div class="container">
         <h1>Update Your Name and Email</h1>
         <form method="POST" action="">
+             <div class="form-group">
+                <label for="Id">Id:</label>
+                <input type="text" id="id" name="id" required>
+            </div>
             <div class="form-group">
                 <label for="name">Name:</label>
                 <input type="text" id="name" name="name" required>
